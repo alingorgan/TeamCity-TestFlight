@@ -12,7 +12,7 @@ This script was designed to be used as an XCode Archive post action script in co
 Using it is really simple. All you have to do is add it as a post-action to your archive build step, within your project scheme. Just make sure the project scheme is a duplicate of the release scheme.
 
 For reference, see below:
-![alt text][https://raw.github.com/alingorgan/TeamCity-TestFlight/master/sample_screenshot.png]
+![alt text](https://raw.github.com/alingorgan/TeamCity-TestFlight/master/sample_screenshot.png)
 
 Also, for further reference, visit Matt Vlasach's [blog post](http://matt.vlasach.com/xcode-bots-hosted-git-repositories-and-automated-testflight-builds/) about CI and XCodeServer
 
