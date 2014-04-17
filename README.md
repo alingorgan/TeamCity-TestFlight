@@ -18,7 +18,7 @@ Also, for further reference, visit Matt Vlasach's [blog post](http://matt.vlasac
 
 #Credits
 
-Kudos to Justin Miller and Matt Vlasach for making the first steps towards automating this process with XCode and XCode Server, which serve as a baseline for automating this process through TeamCity.
+Kudos to Justin Miller and Matt Vlasach for making the first steps towards automating this process with XCode and XCode Server, which serves as a baseline for automating this process through TeamCity.
 
 #Script
 
